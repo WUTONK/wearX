@@ -1,0 +1,22 @@
+#参考：https://juejin.cn/post/7118553241352142856
+build/
+#Pub_tools
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+# IDE-Intelli
+*.iml
+*.ipr
+*.iws
+.idea/
+# IDE-VSCode
+.classpath
+.project
+.settings/
+.vscode/
+.history/
